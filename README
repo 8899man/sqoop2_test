@@ -1,0 +1,2 @@
+1. main class is mysqlToHdfs,which need a argument conf.properties
+2. update conf.properties before you run.

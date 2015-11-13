@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.sqoop:sqoop-common:1.99.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/sqoop/sqoop-common/1.99.4/sqoop-common-1.99.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/sqoop/sqoop-common/1.99.4/sqoop-common-1.99.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/sqoop/sqoop-common/1.99.4/sqoop-common-1.99.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
